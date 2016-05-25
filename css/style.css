@@ -15,7 +15,9 @@ img {
   border: 1px dotted;
   background-color: grey;
   float: right;
-  width: 35%
+  width: 200px;
+  padding:3px;
+  margin: 5px;
 }
 
 .footer {
